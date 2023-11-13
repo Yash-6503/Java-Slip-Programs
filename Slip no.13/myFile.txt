@@ -1,0 +1,5 @@
+hello how are you..
+hey i am yash.
+a Fullstack developer,
+with having skills,
+they are html, css, js, bootstrap, react, next, node, express, mongodb.
